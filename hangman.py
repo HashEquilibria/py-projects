@@ -14,7 +14,7 @@ lives = 6
 chosen_word = "banana"
 len_word = len(chosen_word)
 word = ["_"]*len_word
-print(chosen_word)
+
 
 
 while True: 
